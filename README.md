@@ -1,7 +1,6 @@
 # MicroBBPS
 <h3>Breadboard Power Supply</h3>
 <BR CLEAR=”left” />
-<img src="https://stasiselectronics.github.io/MicroBBPS/assets/images/gallery/IMG_9500.jpg" align="right" width="50%"/>
 
 A small, USB-C connected power supply designed to fit onto the power rails of a solderless breadboard.
 
@@ -26,16 +25,8 @@ This open source hardware project is developed using KiCAD and inkscape. It exis
 
 [Learn more about KiCAD](https://kicad.org/about/kicad/)
 
-## Status
-
-Assemblies and Parts Kits are still available to purchase on Tindie, however current stock is starting to run low.
-
-[Order Yours Today!](https://www.tindie.com/products/stasis/micro-breadboard-power-supply/)
-
-The PCBA is currently at Revision A02. The tag for this release contians all the design files as they were when fabrication files were generated.
-
 ## Updates
-If you would like to keep up to date with this project, be sure to check out my instagram
+If you would like to keep up to date with this project, be sure to check out the original creator's instagram
 
 <h3><a href="https://www.instagram.com/stasis.electronics/">stasis.electronics</a></h3>
 
@@ -52,11 +43,3 @@ Some of the major changes between on A02 from A01 are
 - Changed LEDs to 1206 for better part availability and easier hand soldering
 - Larger silkscreen features
 - Integrated version
-
-### A01 Fabrication
-Here are some photos of the first board revision
-<p align="center">
-  <img src="https://github.com/stasiselectronics/MicroBBPS/blob/main/Hardware%20Files/Images/IMG_8818.jpg" width="30%" />
-  <img src="https://github.com/stasiselectronics/MicroBBPS/blob/main/Hardware%20Files/Images/IMG_8837.jpg" width="30%" />
-  <img src="https://github.com/stasiselectronics/MicroBBPS/blob/main/Hardware%20Files/Images/IMG_8844.jpg" width="30%" />
-</p>
