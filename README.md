@@ -3,7 +3,7 @@
 <BR CLEAR=”left” />
 <img src="https://stasiselectronics.github.io/MicroBBPS/assets/images/gallery/IMG_9500.jpg" align="right" width="50%"/>
 
-A small, Micro USB connected power supply designed to fit onto the power rails of a solderless breadboard.
+A small, USB-C connected power supply designed to fit onto the power rails of a solderless breadboard.
 
 For each side, you can select between 3.3 & 5.0 Volt linear regulators, or the input voltage at the screw terminal. 
 
